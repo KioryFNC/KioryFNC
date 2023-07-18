@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Yuri Barros Luz 👋
 
-<!--
-**KioryFNC/KioryFNC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About 
+I'm studying Web Development at [Rockeatseat].(https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Languages ​​I Study
+- 🔴 `HTML5`
+- 🔵 `CSS`
+- 🟣 `Javascript`
+- 🟡 `Nodejs`
+- 🟢 `Reactjs`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 `Always Studying`
+
+#### Contacts
+- 📬 Email: yuri.barros.luz.familia@gmail.com
+- 👤 Linkedin: https://www.linkedin.com/in/yuri-barros-luz-014010258/
