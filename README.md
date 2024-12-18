@@ -6,9 +6,10 @@ I'm studying Web Development at [Rockeatseat].(https://www.rocketseat.com.br/).
 #### Languages ​​I Study
 - 🔴 `HTML5`
 - 🔵 `CSS`
-- 🟣 `Javascript`
+- 🟠 `Javascript`
 - 🟡 `Nodejs`
 - 🟢 `Reactjs`
+- 🟣`Typescript`
 
 - 📚 `Always Studying`
 
