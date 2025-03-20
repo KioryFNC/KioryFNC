@@ -1,7 +1,7 @@
 ### Hi there, I'm Yuri Barros Luz 👋
 
 #### About 
-I'm studying Web Development at [Rockeatseat].(https://www.rocketseat.com.br/).
+I'm Front-end Development 
 
 #### Languages ​​I Study
 - 🔴 `HTML5`
